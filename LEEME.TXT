@@ -1,3 +1,7 @@
 Esta guía de inicio rápido muestra cómo utilizar Docker Compose para configurar y ejecutar una aplicación simple Django / PostgreSQL.
+Este Repositorio privado ha sido creado con la finalidad de implementar un proyecto Django desde un servidor AWS de forma remota
 
-INICIAR "build.sh"
+INICIAR EN ORDEN LOS DOS CONSTRUCTORES:
+"constructor1.sh" Y DESPUÉS "constructor2.sh"
+
+##Realizado por mduque
