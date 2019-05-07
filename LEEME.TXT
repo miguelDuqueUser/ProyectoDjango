@@ -1,0 +1,3 @@
+Esta guía de inicio rápido muestra cómo utilizar Docker Compose para configurar y ejecutar una aplicación simple Django / PostgreSQL.
+
+INICIAR "build.sh"
