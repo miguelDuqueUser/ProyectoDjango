@@ -6,3 +6,4 @@ sudo apt update
 sudo apt install docker-ce -y
 sudo adduser ubuntu docker
 newgrp docker
+##A continuación se ejecuta el siguiente constructor, debido a que se para la ejecución en este fichero
