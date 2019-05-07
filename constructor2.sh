@@ -2,6 +2,6 @@ sudo curl -L https://github.com/docker/compose/releases/download/1.21.2/docker-c
 sudo chmod +x /usr/local/bin/docker-compose
 sudo apt install python-pip -y
 cd /
-cd ProyectoDjango
+cd /home/$USER/ProyectoDjango
 sudo docker-compose run web django-admin.py startproject composeexample .
 sudo mv /home/$USER/ProyectoDjango/settings.py /home/$USER/ProyectoDjango/composeexample/settings.py
