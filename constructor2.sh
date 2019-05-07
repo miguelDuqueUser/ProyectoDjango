@@ -7,4 +7,5 @@ sudo docker-compose run web django-admin.py startproject composeexample .
 sudo mv /home/$USER/ProyectoDjango/settings.py /home/$USER/ProyectoDjango/composeexample/settings.py
 cd ProyectoDjango
 sudo chown -R $USER:$USER .
+echo "##### COMIENZA LA EJECUCIÓN DE TU PROYECTO DJANGO ######"
 docker-compose up
